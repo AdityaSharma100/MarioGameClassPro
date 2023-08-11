@@ -1,0 +1,40 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+.header {
+    width: 100%;
+    top: 0;
+}
+
+#heading {
+    float: left;
+}
+
+.button {
+    float: right;
+    border-color: white;
+    border-width: 3px;
+}
+
+.img1 {
+  width: 45%;
+  display: inline-block;
+}
+
+#code{
+    margin: 0px;
+    color: white;
+    background-color: grey;
+    width: 100%;
+    line-height: 2;
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+}
